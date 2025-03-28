@@ -4,7 +4,6 @@
     "license": "BSD-2-Clause",
     "type": "silverstripe-vendormodule",
     "require": {
-        "silverstripe/vendor-plugin": "^2.0",
         "silverstripe/framework": "^6"
     },
     "require-dev": {
